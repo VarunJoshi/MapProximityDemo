@@ -1,0 +1,15 @@
+build
+build.log
+tmp
+._*
+.DS_Store*.class
+*.merge-left*
+*.merge-right*
+*.mine
+*.prej
+*.pyc
+*.pyo
+*.working
+.svn
+_svn
+svn-commit*.tmp
